@@ -42,9 +42,6 @@ ${readmore}
  • ${prefix}runtime
  • ${prefix}speed
  • ${prefix}owner
- • ${prefix}sc
- • ${prefix}donasi
- • ${prefix}thanksto
  • ${prefix}delete
  • ${prefix}kirim
  • ${prefix}cekprem
@@ -148,8 +145,7 @@ ${readmore}
  • ${prefix}sewa *add/del*
  
  *THANKS TO*
- ➢ Christian ID
- ➢ Nc Tech
- ➢ Irfan / Riyan
+ ➢ Ridwannn
+ ➢ Trixieee
 `
 }
